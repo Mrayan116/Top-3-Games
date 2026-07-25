@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 3 Games of All Time</title>
+    <link rel="stylesheet" href="webstyle.css">
+</head>
+<body>
+
+<!-- HEADER / HERO -->
+<header class="hero-header">
+    <div class="overlay">
+        <h1>Top 3 Games of All Time</h1>
+        <p class="hero-sub">The goal is to win, but it is the goal that is important, not the winning.</p>
+        <nav>
+            <a href="one.html">Home</a>
+            <a href="two.html">Elden Ring</a>
+            <a href="three.html">Witcher 3</a>
+            <a href="four.html">Ark</a>
+            <a href="sources.html">Sources</a>
+        </nav>
+    </div>
+</header>
+
+<!-- INTRO -->
+<section class="intro-section">
+    <h2>Why These Three?</h2>
+    <p>
+    Thousands of games exist, but the best of the best leave a special mark on you to this day.
+
+    These three games each represent something different:
+    </p>
+
+<ol>
+    <li>A brutal challenge that demands your best and absolute focus.</li>
+    <li>A story so rich it feels like a one-to-one experience with a novel.</li>
+    <li>A sandbox world where imagination comes to life.</li>
+</ol>
+
+<p>
+    This website breaks down why each of these games are masterpieces, through their gameplay, story, and the special moments that stick.
+</p>
+</section>
+
+<!-- QUICK STATS BAR -->
+<div class="stats-bar">
+    <div class="stat">
+        <span class="stat-number">3</span>
+        <span class="stat-label">Legendary Games</span>
+    </div>
+    <div class="stat">
+        <span class="stat-number">500+</span>
+        <span class="stat-label">Hours Played</span>
+    </div>
+    <div class="stat">
+        <span class="stat-number">1</span>
+        <span class="stat-label">Honest Opinion</span>
+    </div>
+</div>
+
+<!-- GAME CARDS -->
+<section class="cards-section">
+    <h2>The Games</h2>
+    <div class="card-grid">
+
+        <div class="card">
+            <img src="Elden1.jpg" alt="Elden Ring">
+            <div class="card-body">
+                <span class="card-tag">Action RPG</span>
+                <h3>Elden Ring</h3>
+                <p>
+                    a critically acclaimed action-RPG, developed by FromSoftware and set in a dark 
+                    fantasy, open-world universe. Players control a custom "Tarnished" character
+                     exploring "The Lands Between" to find Great Runes, defeat demigods, 
+                     and become the Elden Lord.
+                </p>
+                <a href="two.html" class="card-link">Explore Elden Ring →</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="Witcher1.jpg" alt="The Witcher 3">
+            <div class="card-body">
+                <span class="card-tag">Story RPG</span>
+                <h3>The Witcher 3: Wild Hunt</h3>
+                <p>
+                    The Witcher 3: Wild Hunt is an acclaimed 2015 open-world action RPG by CD Projekt RED
+                    , focusing on Geralt of Rivia, a monster hunter searching for his adopted daughter
+                    , Ciri, in a war-torn fantasy world. 
+                </p>
+                <a href="three.html" class="card-link">Explore Witcher 3 →</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="Ark1.jpg" alt="Ark Survival Evolved">
+            <div class="card-body">
+                <span class="card-tag">Survival</span>
+                <h3>Ark: Survival Evolved</h3>
+                <p>
+                    Wake up stranded. Survive the night. Tame a T-Rex. Build a fortress.
+                    Ark is controlled chaos at its finest — a survival game where dinosaurs,
+                    base-building, and unpredictable multiplayer moments collide.
+                </p>
+                <a href="four.html" class="card-link">Explore Ark →</a>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<section class="expect-section">
+    <h2>What You'll Find on This Site</h2>
+    <div class="expect-grid">
+        <div class="expect-item">
+            <div class="expect-icon">&#9876;</div>
+            <h4>Deep Dives</h4>
+            <p>Each game gets its own dedicated page with a full breakdown of gameplay, story, and what makes it stand out.</p>
+        </div>
+        <div class="expect-item">
+            <div class="expect-icon">&#9733;</div>
+            <h4>Personal Take</h4>
+            <p>This isn't a review site. Every word here comes from actual hours spent playing these games.</p>
+        </div>
+        <div class="expect-item">
+            <div class="expect-icon">&#128269;</div>
+            <h4>No Spoilers Policy</h4>
+            <p>Story discussions are kept vague enough that for those who haven't played the games, they can still enjoy them.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>Top 3 Games of All Time | Created for CIS*1050</p>
+    <p>Contact: <a href="mailto:mrayan@uoguelph.ca">mrayan@uoguelph.ca</a></p>
+</footer>
+
+</body>
+</html>
